@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "とくべチュ、して",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-04T14:36:14.486193Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "とくべチュ、して",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_とくべチュ、して_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "とくべチュ、して",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_とくべチュ、して_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "とくべチュ、して(instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/03_とくべチュ、して(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "とくべチュ、して -Instrumental-",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/04_とくべチュ、して_-Instrumental-_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とくべチュ、して",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_とくべチュ、して_=LOVE.txt"
+    }
+  ]
+}
